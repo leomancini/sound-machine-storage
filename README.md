@@ -1,6 +1,6 @@
 # Sound Machine Storage
 
-Storage for sound files used in [Sound Machine](https://github.com/leomancini/sound-machine) and [Sound Machine Phone Service](https://github.com/leomancini/sound-machine-phone-service).
+Storage for sound files used in [Sound Machine](https://github.com/leomancini/sound-machine-firmware) and [Sound Machine Phone Service](https://github.com/leomancini/sound-machine-phone-service).
 
 ## Hosting
 
